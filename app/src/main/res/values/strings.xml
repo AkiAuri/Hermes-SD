@@ -1,3 +1,7 @@
 <resources>
-    <string name="app_name">Prescripts</string>
+    <string name="app_name">Hermes</string>
+    <string name="logo_description">The Index Logo</string>
+    <string name="signal_received">[SIGNAL RECEIVED]</string>
+    <string name="path_blocked">PATH BLOCKED</string>
+    <string name="reward">REWARD</string>
 </resources>
